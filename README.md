@@ -1,9 +1,9 @@
 # Covid-19-Ventilator-Software-
 Software to improve monitoring and control of the Covid-19 ventilator 
 
-Background:  The shortage of ventilators for Covid-19 patients has presented the technical community with a generational challenge.  Novel ventilator designs are already emerging that allow for fast production.   Our software will be targeted to the ventilators based on the [Equilibar back-pressure regulator](https://www.equilibar.com/fullly-automated-oscillatory-pressure-wave-system/), but it will be applicable to other systems that have common needs for monitoring and control.  
+**Background:**  The shortage of ventilators for Covid-19 patients has presented the technical community with a generational challenge.  Novel ventilator designs are already emerging that allow for fast production.   Our software will be targeted to the ventilators based on the [Equilibar back-pressure regulator](https://www.equilibar.com/fullly-automated-oscillatory-pressure-wave-system/), but it will be applicable to other systems that have common needs for monitoring and control.  
 
-Goals:  The goal is a software solution that enhances the performance of the Covid-19 ventilator.  Functions of the softwre are:
+**Goals:**  The goal is a software solution that enhances the performance of the Covid-19 ventilator.  Functions of the softwre are:
 
 * Display of pressure and flow conditions in the ventilator.
 * Control of the pressure and flow conditions in the ventilator.  
@@ -19,16 +19,16 @@ Requirements of the software solution are:
 * Secure.  The software will be immune from malicious activity.
 * Approvable.  The software must ultimately be able to obtain fast-track approval for clinical use (FDA in USA).
 
-Start Date:  April 1, 2020
+**Start Date:**  April 1, 2020
 
 
-Flow Diagram:
+**Flow Diagram:**
 
 
-To Do:
+**To Do:**
 
 
-Schedule:
+**Schedule:**
 
 
 
