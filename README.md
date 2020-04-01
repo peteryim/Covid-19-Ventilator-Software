@@ -8,7 +8,7 @@ Software to improve monitoring and control of the Covid-19 ventilator
 * Display of pressure and flow conditions in the ventilator.
 * Control of the pressure and flow conditions in the ventilator.  
 
-The software will meet the [requirements for the Covid-19 ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/edit) published by Julian Botta, an Emergency Medicine Physcian at Johns Hopkins University.
+The software will help meet the [requirements for the Covid-19 ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/edit) published by Julian Botta, an Emergency Medicine Physcian at Johns Hopkins University.
 
 
 Requirements of the software solution are:
