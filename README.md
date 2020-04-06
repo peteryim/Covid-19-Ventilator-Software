@@ -20,11 +20,11 @@ Requirements of the software solution are:
 * Approvable.  The software must ultimately be able to obtain fast-track approval for clinical use (FDA in USA).
 
 **CALL FOR EXPERTISE**
-*Ventilator Design
-*Labview Developement
-*Software Distribution
-*Respiratory Modeling
-*Manufacturing
+* Ventilator Design
+* Labview Developement
+* Software Distribution
+* Respiratory Modeling
+* Manufacturing
 
 **Start Date:**  April 1, 2020
 
