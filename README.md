@@ -28,17 +28,9 @@ The software solution will meet these requirements:
 * Respiratory Modeling
 * Manufacturing
 
-**Start Date:**  April 1, 2020
-
-
-**Flow Diagram:**
-
-
 **To Do:**
 
-
-**Schedule:**
-
+* Interfacing with Equilibar prototype
 
 
 
