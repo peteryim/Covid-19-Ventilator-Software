@@ -34,6 +34,7 @@ Advice, material and other support provided by:
 * Software Distribution
 * Respiratory Modeling
 * Manufacturing
+* IoT,  Development of Ethernet-addressable ventilator prototype
 
 **To Do:**
 
