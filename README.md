@@ -11,7 +11,7 @@ Software to improve monitoring and control of the Covid-19 ventilator
 The software will help meet the [requirements for the Covid-19 ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/edit) published by Julian Botta, an Emergency Medicine Physcian at Johns Hopkins University.
 
 
-**Requirements** 
+**Requirements:** 
 
 The software solution will meet these requirements:
 
@@ -21,7 +21,7 @@ The software solution will meet these requirements:
 * Secure.  The software will be immune from malicious activity.
 * Approvable.  The software must ultimately be able to obtain fast-track approval for clinical use (FDA in USA).
 
-**Call for contributions**
+**Call for contributions:**
 * Ventilator Design
 * Labview Developement
 * Software Distribution
