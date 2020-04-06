@@ -24,7 +24,7 @@ The software solution will meet these requirements:
 **Industry Contributors**<br>
 Advice, material and other support provided by:
 * Equilibar
-* Lab Jack
+* LabJack
 * SUSE
 
 
