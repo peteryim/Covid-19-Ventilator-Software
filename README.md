@@ -21,6 +21,13 @@ The software solution will meet these requirements:
 * Secure.  The software will be immune from malicious activity.
 * Approvable.  The software must ultimately be able to obtain fast-track approval for clinical use (FDA in USA).
 
+**Industry Contributors**
+Advice, material and other support provided by:
+* Equilibar
+* Lab Jack
+* SUSE
+
+
 **Call for contributions:**
 * Ventilator Design
 * Labview Developement
